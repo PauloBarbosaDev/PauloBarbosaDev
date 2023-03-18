@@ -1,8 +1,7 @@
   ### Olá, sou o Paulo Barbosa 👋
 
-<br>
-hr
-<div>
+<hr>
+<div markdown-body entry-content container-lg f5>
   <a href="https://github.com/PauloBarbosaDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloBarbosaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloBarbosaDev&layout=compact&langs_count=6&theme=tokyonight"/>
