@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor Back-End
+💻 Eu sou um desenvolvedor Full-Stack
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
