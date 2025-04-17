@@ -7,7 +7,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Análise e desenvolvimento de sistemas na Unifatecie
+🎓 Formado em análise e desenvolvimento de sistemas
 
 ✒️ Eu gosto de no meu tempo livre [Fazer esportes e aprender mais sobre tecnologia]
 
